@@ -2,7 +2,7 @@ const settings = {
   packname: 'Knight',
   author: 'kea',
   botName: "Kea Bot",
-  botOwner: 'Keabetswe🥹❤️‍🩹', // Your name
+  botOwner: 'Keabetswe', // Your name
   ownerNumber: '+27692246638', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
